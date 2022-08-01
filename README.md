@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @itsqamargondal
+- 👋 Hi, I’m Qamar Abbas Gondal
 - 👀 I’m interested in android and IOS app development projects.
 - 🌱 I’m currently learning flutter.
 - 📫 How to reach me, Here is my email address mr.qamargondal@gmail.com
